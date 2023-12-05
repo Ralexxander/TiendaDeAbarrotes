@@ -10,7 +10,6 @@
 
 <li>Mantener un control de entrada y salida de mercadería</li>
 
-  
 <li>Llevar un inventario de cada uno de los proveedores.</li>
 
 <li>Brindar un balance general y estado de resultados.</li>
@@ -24,4 +23,14 @@
 <li>Registrar las facturas generadas</li>
 
 <li>Mostrar y registrar un listado para saber el consumo de sus artículos</li>
+
+<h3>Requerimientos No Funcionales</h3>
+<li>Interfaz Intuitiva y Amigable</li>
+<li>Facilitar el uso del software.</li>
+<li>Rápido acceso a la información.</li>
+<li>Restringir el acceso, solo para usuarios autorizados.</li>
+<li>Distribución de horarios, fechas con un calendario grafico.</li>
+<li>Realizar búsquedas de la información registrada mediante diversos filtros.</li>
+<li></li>Mostrar en todo momento las operaciones disponibles según los privilegios del usuario</li>
+
 
