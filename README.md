@@ -31,6 +31,6 @@
 <li>Restringir el acceso, solo para usuarios autorizados.</li>
 <li>Distribución de horarios, fechas con un calendario grafico.</li>
 <li>Realizar búsquedas de la información registrada mediante diversos filtros.</li>
-<li></li>Mostrar en todo momento las operaciones disponibles según los privilegios del usuario</li>
+<li>Mostrar en todo momento las operaciones disponibles según los privilegios del usuario</li>
 
 
