@@ -1,9 +1,9 @@
 <h1>Tienda de abarrotes</h1>
 <h3>Integrantes</h3>
 <li>Johann Enrique Briceño Herrera</li>
-<li>Jazmin Guadalupe Dzib Ake</li>
-<li>Valeria Leticia Puga Aguilar</li>
-<li>Blanca Itzel Medina Mex</li>
+<li>Raúl Alexander Palomo Pech</li>
+<li>Miguel Ángel Escalante Rejón</li>
+
 <h3>Java Doc</h3>
 <li>file:///C:/Users/jafhe/OneDrive/Documentos/NetBeansProjects/AbarrotesTizimin/AbarrotesTizimin/dist/javadoc/index.html?ClasesSistema/GuardarArchivos.html</li>
 <h3>Requerimientos Funcionales</h3>
