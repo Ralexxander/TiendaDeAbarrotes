@@ -34,3 +34,4 @@
 <li>Mostrar en todo momento las operaciones disponibles según los privilegios del usuario</li>
 
 
+
