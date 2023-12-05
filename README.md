@@ -1,23 +1,27 @@
 <h1>Tienda de abarrotes</h1>
+<h3>Integrantes</h3>
+<li>Johann Enrique Briceño Herrera</li>
+<li>Jazmin Guadalupe Dzib Ake</li>
+<li>Valeria Leticia Puga Aguilar</li>
+<li>Blanca Itzel Medina Mex</li>
 <h3>Java Doc</h3>
-<h5>file:///C:/Users/jafhe/OneDrive/Documentos/NetBeansProjects/AbarrotesTizimin/AbarrotesTizimin/dist/javadoc/index.html?ClasesSistema/GuardarArchivos.html</h5>
+<li>file:///C:/Users/jafhe/OneDrive/Documentos/NetBeansProjects/AbarrotesTizimin/AbarrotesTizimin/dist/javadoc/index.html?ClasesSistema/GuardarArchivos.html</li>
 <h3>Requerimientos Funcionales</h3>
 
-<h5>
-•	Mantener un control de entrada y salida de mercadería
+<li>Mantener un control de entrada y salida de mercadería</li>
 
   
-•	Llevar un inventario de cada uno de los proveedores.
+<li>Llevar un inventario de cada uno de los proveedores.</li>
 
-•	Brindar un balance general y estado de resultados.
+<li>Brindar un balance general y estado de resultados.</li>
 
-•	Agilizar y realizar el cobro exacto de cada producto
+<li>Agilizar y realizar el cobro exacto de cada producto</li>
 
-•	Registrar los diferentes clientes con los que se trabaja
+<li>Registrar los diferentes clientes con los que se trabaja</li>
 
-•	Registrar los diferentes artículos que proveen a la tienda y el stock de éstos.
+<li>Registrar los diferentes artículos que proveen a la tienda y el stock de éstos.</li>
 
-•	Registrar las facturas generadas
+<li>Registrar las facturas generadas</li>
 
-•	Mostrar y registrar un listado para saber el consumo de sus artículos
-</h5>
+<li>Mostrar y registrar un listado para saber el consumo de sus artículos</li>
+
